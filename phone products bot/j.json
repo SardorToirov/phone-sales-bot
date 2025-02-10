@@ -1,0 +1,50 @@
+[
+  {
+    "profile_picture": "https://openshop.fra1.cdn.digitaloceanspaces.com/public/uploads/products/photos/202302/7LPpJDAz4jWUJFGcU0Jrb4r9tdl3HgckiLj1BJXM.jpg",
+    "model": "Samsung Galaxy S23",
+    "brend": "Samsung",
+    "narx": "1000 USD",
+    "rang": "qora",
+    "miqdor": 2
+  },
+  {
+    "profile_picture": "https://www.notebookcheck.net/fileadmin/_processed_/4/d/csm_Bild_Apple_iPhone_15_Pro_Max-Intro_b632e0fbb1.jpg",
+    "model": "iPhone 15 Pro",
+    "brend": "Apple",
+    "narx": "1200 USD",
+    "rang": "ko'k",
+    "miqdor": 2
+  },
+  {
+    "profile_picture": "https://www.ixbt.com/img/n1/news/2023/6/1/pixel-8-angled_large.jpg",
+    "model": "Google Pixel 8",
+    "brend": "Google",
+    "narx": "800 USD",
+    "rang": "oq",
+    "miqdor": 1
+  },
+  {
+    "profile_picture": "https://vladimir.ibrat.ru/upload/iblock/f21/ursb80tsgay8t8tj7yw2s8be6tf4qs7x.jpg",
+    "model": "Xiaomi 13 Pro",
+    "brend": "Xiaomi",
+    "narx": "900 USD",
+    "rang": "yashil",
+    "miqdor": 1
+  },
+  {
+    "profile_picture": "https://i.4pda.ws/s/as6yxlMfh2vW5z0mpi5GoUaz0gBfdjqmbA7eeeC4gWCA6z0.jpg?v=1707288112",
+    "model": "OnePlus 11",
+    "brend": "OnePlus",
+    "narx": "700 USD",
+    "rang": "qizil",
+    "miqdor": 2
+  },
+  {
+    "profile_picture": "https://oma.kz/upload/catalog/products/a6e/nvOWRwHcp00lUxcN.jpeg",
+    "model": "Huawei P60 Pro",
+    "brend": "Huawei",
+    "narx": "950 USD",
+    "rang": "kumush",
+    "miqdor": 2
+  }
+]
